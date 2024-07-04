@@ -28,5 +28,5 @@ nav{
 }
 
 nav ul{
-    
+    flex: 1;
 }
