@@ -42,5 +42,6 @@ nav ul li a{
 }
 
 nav .btn{
-    color: #fff
+    color: #fff;
+    text-decoration: none;
 }
