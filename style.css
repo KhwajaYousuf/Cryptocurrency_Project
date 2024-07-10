@@ -68,6 +68,6 @@ nav .btn{
 }
 
 .content .btn{
-    
+    display: inline-block;
 }
 
