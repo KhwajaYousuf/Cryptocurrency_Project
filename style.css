@@ -80,5 +80,6 @@ nav .btn{
 .coin-list{
     position: absolute;
     right: 10%;
+    bottom: 50px;
 }
 
