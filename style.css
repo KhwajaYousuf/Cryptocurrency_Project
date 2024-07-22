@@ -82,5 +82,6 @@ nav .btn{
     right: 10%;
     bottom: 50px;
     display: flex;
+    align-items: center;
 }
 
