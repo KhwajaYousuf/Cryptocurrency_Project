@@ -87,5 +87,6 @@ nav .btn{
 
 .coin{
     display: flex;
+    align-items: center;
 }
 
