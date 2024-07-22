@@ -73,11 +73,11 @@ nav .btn{
     background: #ff960b;
     color: #fff;
     text-decoration: none;
-    padding: 15px 30px;
+    padding: 15px 30px; 
     border-radius: 30px;
 }
 
 .coin-list{
-
+    position: absolute;
 }
 
